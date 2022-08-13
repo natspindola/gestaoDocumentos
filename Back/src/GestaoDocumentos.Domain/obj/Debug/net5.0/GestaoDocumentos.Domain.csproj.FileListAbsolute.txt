@@ -1,0 +1,12 @@
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\bin\Debug\net5.0\GestaoDocumentos.Domain.deps.json
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\bin\Debug\net5.0\GestaoDocumentos.Domain.dll
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\bin\Debug\net5.0\ref\GestaoDocumentos.Domain.dll
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\bin\Debug\net5.0\GestaoDocumentos.Domain.pdb
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\obj\Debug\net5.0\GestaoDocumentos.Domain.csproj.AssemblyReference.cache
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\obj\Debug\net5.0\GestaoDocumentos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\obj\Debug\net5.0\GestaoDocumentos.Domain.AssemblyInfoInputs.cache
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\obj\Debug\net5.0\GestaoDocumentos.Domain.AssemblyInfo.cs
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\obj\Debug\net5.0\GestaoDocumentos.Domain.csproj.CoreCompileInputs.cache
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\obj\Debug\net5.0\GestaoDocumentos.Domain.dll
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\obj\Debug\net5.0\ref\GestaoDocumentos.Domain.dll
+C:\dev\gestaoDocumentos\back\src\GestaoDocumentos.Domain\obj\Debug\net5.0\GestaoDocumentos.Domain.pdb

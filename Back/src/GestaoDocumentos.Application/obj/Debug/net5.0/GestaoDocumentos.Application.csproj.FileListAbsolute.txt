@@ -1,0 +1,17 @@
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\bin\Debug\net5.0\GestaoDocumentos.Application.deps.json
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\bin\Debug\net5.0\GestaoDocumentos.Application.dll
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\bin\Debug\net5.0\ref\GestaoDocumentos.Application.dll
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\bin\Debug\net5.0\GestaoDocumentos.Application.pdb
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\obj\Debug\net5.0\GestaoDocumentos.Application.csproj.AssemblyReference.cache
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\obj\Debug\net5.0\GestaoDocumentos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\obj\Debug\net5.0\GestaoDocumentos.Application.AssemblyInfoInputs.cache
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\obj\Debug\net5.0\GestaoDocumentos.Application.AssemblyInfo.cs
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\obj\Debug\net5.0\GestaoDocumentos.Application.csproj.CoreCompileInputs.cache
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\obj\Debug\net5.0\GestaoDocumentos.Application.dll
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\obj\Debug\net5.0\ref\GestaoDocumentos.Application.dll
+C:\dev\gestaoDocumentos\back\src\gestaoDocumentos.Application\obj\Debug\net5.0\GestaoDocumentos.Application.pdb
+C:\dev\gestaoDocumentos\Back\src\gestaoDocumentos.Application\bin\Debug\net5.0\GestaoDocumentos.Domain.dll
+C:\dev\gestaoDocumentos\Back\src\gestaoDocumentos.Application\bin\Debug\net5.0\GestaoDocumentos.Persistence.dll
+C:\dev\gestaoDocumentos\Back\src\gestaoDocumentos.Application\bin\Debug\net5.0\GestaoDocumentos.Domain.pdb
+C:\dev\gestaoDocumentos\Back\src\gestaoDocumentos.Application\bin\Debug\net5.0\GestaoDocumentos.Persistence.pdb
+C:\dev\gestaoDocumentos\Back\src\gestaoDocumentos.Application\obj\Debug\net5.0\GestaoDocumentos.Application.csproj.CopyComplete
