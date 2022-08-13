@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vPUCOHOrV9LFUbZOtIM7Z3pFssXz8YaBxM+aAA9xDAjPJBB+FCt0EFE9oiFc+30EZz11/l3LKF0N2/xzlSNriQ==",
+  "dgSpecHash": "9rR7jgKYR+y6W9da+/57chLE+/fgzMzzIhPdKTHgVAXM9p1nhffP6XJzk9MfBVZ0ykLL8iUtCT31h4dNjDik8w==",
   "success": true,
-  "projectFilePath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj",
+  "projectFilePath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

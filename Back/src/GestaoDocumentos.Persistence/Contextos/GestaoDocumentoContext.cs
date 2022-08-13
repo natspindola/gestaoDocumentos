@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using GestaoDocumentos.Domain;
 
-namespace GestaoDocumentos.Persistence
+namespace GestaoDocumentos.Persistence.Contextos
 {
     public class GestaoDocumentoContext : DbContext
     {

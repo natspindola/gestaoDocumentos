@@ -780,11 +780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj",
+      "projectUniqueName": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj",
       "projectName": "GestaoDocumentos.Persistence",
-      "projectPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj",
+      "projectPath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Persistence\\obj\\",
+      "outputPath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -804,8 +804,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj": {
-              "projectPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj"
+            "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj": {
+              "projectPath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj": {}
+    "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj": {
+    "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj",
+        "projectUniqueName": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj",
         "projectName": "GestaoDocumentos.Domain",
-        "projectPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj",
+        "projectPath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\obj\\",
+        "outputPath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

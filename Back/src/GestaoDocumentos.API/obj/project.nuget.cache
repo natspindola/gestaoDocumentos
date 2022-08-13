@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I0NX+LyAKpS4s7kPnV1A6713cgUNvbXlpLm15m7IWIF0q/u98oxfrrd5T+M7lLlgSeieLZil6vouG6Sgq+nIUQ==",
+  "dgSpecHash": "u0bvQj2rvhk4BYSfDQrethJls8fjgYNg9VHZz+YPx5mJJlbsgOVMnLcAqAduitGj0NCwn+qZdS/FI/GgLxvjdw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.API\\GestaoDocumentos.API.csproj",
+  "projectFilePath": "C:\\dev\\gestaoDocumentos\\back\\src\\gestaoDocumentos.Api\\GestaoDocumentos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7kMqxZMfSsGL3C7wEeMOjYbYPIrkGn03VW4y9xUNP7375Z/zcPw50y5P+FB/5a3LRRyNj1omSY2yH1WnAQkUvA==",
+  "dgSpecHash": "Dyfu8zS8ilG/SgV8ZRkpFHHA0LzTJIc9djW8QzihnUjk/aN4vlwQ6tCZl9GbGrfDNDlftn3bN9f3Pp14AztCIA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj",
+  "projectFilePath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1356,11 +1356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.API\\GestaoDocumentos.API.csproj",
+      "projectUniqueName": "C:\\dev\\gestaoDocumentos\\back\\src\\gestaoDocumentos.Api\\GestaoDocumentos.API.csproj",
       "projectName": "GestaoDocumentos.API",
-      "projectPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.API\\GestaoDocumentos.API.csproj",
+      "projectPath": "C:\\dev\\gestaoDocumentos\\back\\src\\gestaoDocumentos.Api\\GestaoDocumentos.API.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.API\\obj\\",
+      "outputPath": "C:\\dev\\gestaoDocumentos\\back\\src\\gestaoDocumentos.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1380,14 +1380,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Application\\GestaoDocumentos.Application.csproj": {
-              "projectPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Application\\GestaoDocumentos.Application.csproj"
+            "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Application\\GestaoDocumentos.Application.csproj": {
+              "projectPath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Application\\GestaoDocumentos.Application.csproj"
             },
-            "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj": {
-              "projectPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj"
+            "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj": {
+              "projectPath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Domain\\GestaoDocumentos.Domain.csproj"
             },
-            "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj": {
-              "projectPath": "C:\\dev\\gestaoDocumentos\\Back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj"
+            "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj": {
+              "projectPath": "C:\\dev\\gestaoDocumentos\\back\\src\\GestaoDocumentos.Persistence\\GestaoDocumentos.Persistence.csproj"
             }
           }
         }

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using GestaoDocumentos.Persistence;
 using GestaoDocumentos.Domain;
 using Microsoft.AspNetCore.Mvc;
+using GestaoDocumentos.Persistence.Contextos;
 
 namespace GestaoDocumentos.API.Controllers
 {
